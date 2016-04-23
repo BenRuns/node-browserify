@@ -24,7 +24,7 @@
     "assert": "git@github.com:defunctzombie/commonjs-assert.git",
     "browser-pack": "^6.0.1",
     "browser-resolve": "^1.11.0",
-    "browserify-zlib": "git@github.com:devongovett/browserify-zlib.git",
+    "browserify-zlib": "git@github.com:benruns/browserify-zlib.git",
     "buffer": "^4.1.0",
     "concat-stream": "~1.5.1",
     "console-browserify": "^1.1.0",
